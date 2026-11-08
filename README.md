@@ -16,7 +16,7 @@ FinAlpes es una fintech colombiana que quiere venderle a los bancos un moelo par
 
 `informe/Presentacion_Taller2.pptx`: la presentación corta del punto 6, con 9 diapositivas. Muestra los hallazgos del modelo y los resultados, y terina con la recomendación finl para el negocio.
 
-`DECLARACION_IA.md`: borrador de la declaración de uso de IA generativa del punto 7. Se completa después.
+`DECLARACION_IA.md`: declaración de uso de IA generativa del punto 7.
 
 `requirements.txt`: las librerías necesarias.
 
