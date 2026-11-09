@@ -2,7 +2,7 @@
 
 MINE 4101 Ciencia de Datos Aplicada, Universidad de los Andes.
 
-Integrantes: María Paula Ospina 202123208 y Jorge Acosta.
+Integrantes: María Paula Ospina 202123208
 
 ## De qué trata
 
